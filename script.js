@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
     
     // Countdown
-    const countdownDate = new Date("2024-05-31T00:00:00");
+    const countdownDate = new Date("2024-10-31T00:00:00");
 
     function updateCountdown() {
         const now = new Date().getTime();
